@@ -1,0 +1,39 @@
+/* h1 {color: aqua;} */
+/* i + b{color: red;}
+i~b{color: darkorange;}
+i b{color:gold}
+h1::first-line{font-size: 100px;} */
+/* i>b {font-family: Georgia, 'Times New Roman', Times, serif;}
+i b {font-size: 100px;} */
+/* body{padding: 20px;}
+div {background-color: gray;
+padding: inherit;}
+*{font-weight: bold;
+font-style: italic;}
+h1::first-letter{text-transform: uppercase;}
+*{text-decoration: underline;}
+*{text-decoration: none;} */
+
+/* div{height: 200px;
+background-color: lightgray;}
+div>p {height:  100px;
+background-color:  gray;}
+*{text-align: left;}
+p {vertical-align:middle;} */
+/* h1{text-shadow: 3px 3px 3px green;
+color: rgba(0, 0, 0,0.5);}
+a:link{color:   rgb(0, 0, 0);}
+a:visited{color: purple;}
+a:hover{color: aqua;}
+a:active{color: brown;} */
+span p{max-height: 200px;
+    max-width: 200px;
+background-color: lightgray;
+overflow: scroll;
+margin: 30px;}
+h1{border-width: 2px;
+    border-style: dotted;
+border-color: aqua black black black;
+border-radius: 5px;
+padding: 10px
+}
